@@ -34,28 +34,6 @@ SHAP analysis for interpreting model predictions
 The files Eb.h5, Ec.h5, and Ef.h5 are the trained CNN models corresponding to the three energy types above.
 
 ## Folder: **ML**
-This folder shows various methods for predicting Binding Energy (Eb), Cohesive Energy (Ec), and Formation Energy (Eform)
+This folder shows various methods for predicting Binding Energy (Eb), Cohesive Energy (Ec), and Formation Energy (Eform).
 
-The following models have been implemented and evaluated:
-
-Linear Regression (LR)
-
-Decision Trees (DT)
-
-Random Forests (RF)
-
-Gradient Boosting Regression (GBR)
-
-AdaBoost
-
-XGBoost
-
-LightGBM
-
-Extremely Randomized Trees (ExtraTrees)
-
-K-Nearest Neighbors (KNN)
-
-Support Vector Regression (SVR)
-
-Multi-layer Perceptrons (MLP)
+Linear Regression (LR), Decision Trees (DT), Random Forests (RF), Gradient Boosting Regression (GBR), AdaBoost, XGBoost, LightGBM, Extremely Randomized Trees (ExtraTrees), K-Nearest Neighbors (KNN), Support Vector Regression (SVR), Multi-layer Perceptrons (MLP)
