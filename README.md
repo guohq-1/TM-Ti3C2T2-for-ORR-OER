@@ -14,3 +14,21 @@ Our own DFT (Density Functional Theory) calculations.
 ### SeparateByGroup.ipynb
 A Python notebook that randomly splits the dataset into training and prediction sets.
 Dependencies: Requires the pandas library.
+
+## Folder: **CNN**
+This folder contains the model of CNN.
+
+### Eb.ipynb, Ec.ipynb, and Ef.ipynb
+Three Jupyter notebooks—Eb.ipynb, Ec.ipynb, and Ef.ipynb—which correspond to the training of CNN models for predicting binding energy, cohesive energy, and formation energy, respectively. Each notebook includes:
+
+Model training parameters
+
+Evaluation metrics such as MRSE, MEA, and R²
+
+Performance comparison between CNN predictions and DFT results on both training and test datasets
+
+SHAP analysis for interpreting model predictions
+
+### Eb.h5, Ec.h5
+
+The files Eb.h5, Ec.h5, and Ef.h5 are the trained CNN models corresponding to the three energy types above.
