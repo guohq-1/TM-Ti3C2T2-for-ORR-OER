@@ -1,4 +1,4 @@
-# TM-Ti3C2TX-for-ORR-OER
+# TM-Ti3C2T2-for-ORR-OER
 
 ## Folder: **Descriptors&Classification**
 This folder contains the following key files:
