@@ -1,6 +1,6 @@
 # TM-Ti3C2T2-for-ORR-OER
 
-## Folder: **Descriptors&Classification**
+## Folder: **Descriptor&DFT-calculate**
 This folder contains the following key files:
 
 ### Descriptors.csv
@@ -14,6 +14,9 @@ Our own DFT (Density Functional Theory) calculations.
 ### SeparateByGroup.ipynb
 A Python notebook that randomly splits the dataset into training and prediction sets.
 Dependencies: Requires the pandas library.
+
+### DFT_Data.csv
+
 
 ## Folder: **CNN**
 This folder contains the model of CNN.
