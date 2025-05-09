@@ -25,12 +25,15 @@ VBM: Valence Band Maximum (in eV)
 WF: Work function (in eV)
 
 E<sub>c</sub>: Cohesive energy of the single atom in SAC (in eV)
+
 E_c = – (E_M-bulk / N – E_M-single)
 
 E<sub>b</sub>: Binding energy of the single atom on the substrate (in eV)
+
 E_b = – (E_MTi3C2T2 – E_M-single – E_Ti3C2T2)
 
 E<sub>form</sub>: Formation energy of the SAC (in eV)
+
 E_form = E_MTi3C2T2 – E_Ti3C2T2 – E_M-bulk / N
 
 ## Folder: **CNN**
